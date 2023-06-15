@@ -5,7 +5,8 @@ This repository is made by Adyatama Mahabarata from class L2BC 2602158626
 ```
 - A java IDE
 - XAMPP
--
+- MySQL Connector
+
 ```
 
 # Video link
